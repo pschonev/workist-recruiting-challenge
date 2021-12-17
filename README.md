@@ -2,8 +2,8 @@
 
 Read in order:
 
-1. analysis.py
+1. analysis.ipynb
 
-2. classification.py
+2. classification.ipynb
 
-3. pytorch_classifier.py
+3. pytorch_classifier.ipynb
